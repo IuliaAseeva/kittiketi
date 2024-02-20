@@ -1,4 +1,4 @@
-# 2 grid
+# Котята
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Yulia-Aseeva/pen/VwgBbqz](https://codepen.io/Yulia-Aseeva/pen/VwgBbqz).
+Проект был создан в песочнице Codepen.io: [https://codepen.io/Yulia-Aseeva/pen/VwgBbqz](https://codepen.io/Yulia-Aseeva/pen/VwgBbqz).
 
